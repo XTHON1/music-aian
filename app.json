@@ -1,9 +1,9 @@
 {
-  "name": "Source DevProx Music",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Developed by Abs.",
-  "logo": "https://raw.githubusercontent.com/iq0abs/MusicBot/master/DevProx.jpg",
+  "name": "Source Aian Music",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Developed by aian.",
+  "logo": "https://telegra.ph/file/28cde74b6c87bd39228d2.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://t.me/Dev_Prox/",
+  "repository": "https://t.me/oskateam/",
   "stack": "container",
   "env": {
     "SESSION_NAME": {

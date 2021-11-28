@@ -5,7 +5,7 @@ from pyrogram import Client
 TG = """
 A bot that can play music on telegram group's voice chat.
 
-This file is part of < https://github.coM/iq0abs/ProxMusic > project,
+This file is part of < https://github.coM/XTHON1/music-aian > project,
 and is released under the "Apache 2.0".
 """
 

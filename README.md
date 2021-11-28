@@ -20,8 +20,8 @@
 ### - Deploy To Heroku : 
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/TMLANA/Arabic">
-     <img height="30px" src="https://img.shields.io/bahttps://heroku.com/deploy?template=https://github.com/XTHON1/music-aiandge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/XTHON1/music-aian">
+     <img height="30px" src="dge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
 ### - Session String : 

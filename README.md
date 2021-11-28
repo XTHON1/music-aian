@@ -1,20 +1,4 @@
-### - Source DevProx Music : 
 
-<p align="center">
-  <a href="https://github.com/iq0abs/ProxMusic/stargazers">
-    <img src="https://img.shields.io/github/stars/iq0abs/ProxMusic?style=social">
-
-  </a>
-  
-  <a href="https://github.com/iq0abs/ProxMusic/fork">
-    <img src="https://img.shields.io/github/forks/iq0abs/ProxMusic?label=Fork&style=social">
-
-  </a>  
-</p>
-
-<a href="https://telegram.dog/GroupMusicPlaybot"><img src="https://img.shields.io/badge/Telegram-Ch-blue.svg?logo=telegram"></a>
-[![Protection Source Telegram!](https://badgen.net/badge/Protection%20Source/Telegram/blue?icon=github)](https://github.com/iq0abs/ProxMusic)
-[![Ask Me Anything!](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/IQA_bot)
 
 ### - Commands :
 - `/تشغيل <song name>` - play song you requested
@@ -37,7 +21,7 @@
 
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/TMLANA/Arabic">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+     <img height="30px" src="https://img.shields.io/bahttps://heroku.com/deploy?template=https://github.com/XTHON1/music-aiandge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
 ### - Session String : 
